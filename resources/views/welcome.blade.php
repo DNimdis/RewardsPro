@@ -16,7 +16,7 @@
     </div>
     <div class="content">
         <div class="title m-b-md" style="color:#f3e5f5;">
-            Revko Rewared
+            Rewared
         </div>
         <div class="links">
           <a  class="btn pulse" href="{{url('/ShoppingClien/create')}}"> Registrar Compra</a>
