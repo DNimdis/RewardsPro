@@ -14,3 +14,16 @@ Este proyecto esta siendo desarrollado con la intensión de proporcionar una pla
 Esta plataforma asegura que las factura proporcionadas por el mayorista o el distribuidos sean validadas con las estructuras de CFDI 3.3 solicitada por el SAT, que entro en vigor el día 1 de julio de 2017, con base al anexo 20 (guía de llenado de los comprobantes fiscales digitales por internet). dicha plataforma esta siendo desarrollada con la tecnología de PHP, utilizando el Framework Laravel 5 y el sistema gestor de base de datos Mysql.
 
 Y para asegura la experiencia de usuario, esta plataforma utiliza Materialize que es un marco de diseño que utiliza las utimas practicas de material design.
+
+Screenshot Frond Office :
+
+![imagen de entrada](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/Captura.PNG)
+![Entrada](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/Captura2.PNG)
+![menu lateral](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/Captura3.PNG)
+![panel de usuario](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/panelUsuario.png)
+![Registro de factura](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/Registrofactura.png)
+
+Screenshot Back Office :
+
+![Promociones registradas](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/admin/Captura.PNG)
+![Registro de promociones](https://github.com/DNimdis/RewardsPro/blob/master/public/img/imgWIKI/admin/Captura2.PNG)
