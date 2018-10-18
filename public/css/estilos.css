@@ -1,0 +1,10 @@
+.card_dash{
+  border-bottom: 1em;
+  border-bottom-color: #00796b;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-style: solid;
+  background: #26a69a;
+  color: white;
+}
